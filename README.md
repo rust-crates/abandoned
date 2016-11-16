@@ -16,5 +16,9 @@ they will be able to.
         respect that wish.
 
 ## Process for claiming a crate
-Open a [ticket](https://github.com/rust-crates/abandoned/issues/new) asking to
-be the new owner of a crate. A volunteer will work with you to get that to happen.
+You can view all abandoned crates by looking at this repo's
+[branches](https://github.com/rust-crates/abandoned/branches)
+
+If you would like to be the new owner/maintainer of a crate, open a
+[ticket](https://github.com/rust-crates/abandoned/issues/new). A volunteer will
+work with you to get that to happen.
