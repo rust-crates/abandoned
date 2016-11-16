@@ -7,7 +7,7 @@ they will be able to.
 ## Process for abandoning your crate
 - transfer ownership to this group via the
     [cargo command](http://doc.crates.io/crates-io.html#cargo-owner)
-    `cargo owner --add github:rust-crates:reclaimers`
+    - `cargo owner --add github:rust-crates:reclaimers`
 - Open a [ticket](https://github.com/rust-crates/abandoned/issues/new).
     In the ticket put the following:
     - whether you want to completely abandon the crate -- in which case all versions
