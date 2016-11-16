@@ -1,0 +1,15 @@
+[package]
+name = 
+version = 
+authors = ["rust-crates/abandoned"]
+description = '''
+This crate has been abandoned, open an issue at the link below
+if you would like to use the name or maintain this package
+
+https://github.com/rust-crates/abandoned/issues/new
+'''
+repository = "https://github.com/rust-crates/abandoned"
+keywords = ["abandoned", "available"]
+license = "MIT"
+
+[dependencies]
